@@ -4150,5 +4150,727 @@
                 }
             ]
         }
+    ],
+    "gym": [
+        {
+            "Företag": "Delta Gym AB",
+            "Adress": "Hälsingegatan 5, Stockholm",
+            "Hemsida": "https://deltagym.com/",
+            "Telefon": "08-30 86 52",
+            "Google-profil": "https://maps.google.com/?cid=17329178353805000253",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5bcGb9nqttSVvVppDngIy3wOzTkjwln5qFcqxWU21diN8e6l67TDBClJUK1wpbutegT3xiNRTXDYA8FXQvrNnx3CtvFRGJIXHpZNMTRYgOkPYlbukVOz3pzzC8pR01Qc7wwMrs9QJ80xlN98pShlFcbJe6_q6oC698k1tovdskEGEl&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Elli Fountoukidou",
+                    "rating": 5,
+                    "text": "Nice gym. A lot of equipment; free weights and machines. Day fee around 10 euros. Definitely recommend it."
+                },
+                {
+                    "author_name": "Snailshark",
+                    "rating": 4,
+                    "text": "Favorite place to go!\nNo matter if you are just starting out or a competition body builder.\n\nThis place is filled with motivating and amazing people.\n\nUp-lifting (pun intended) environment that focuses on having fun, being healthy and just doing your thing. No judgments at all, only people pushing you to do your best.\n\nThe facility is well equiped, being updated on the regular, always tidy, clean and everyone re-racks weights in the right places and most people clean.\n\nThey sell healthy food options that are pre-made and can be to-go or eat there with real cutlery.\nThey have their own workout suppliments, they sell energy drinks, coffee and bars and have a microwave, fridge and tables so you can re-fuel or pre-fuel.\n\nAnd they have their own clothing brands that includes hoodies, pants, caps and bags."
+                },
+                {
+                    "author_name": "Jonne Väisänen",
+                    "rating": 5,
+                    "text": "Perfect no-nonsense gym for a real weightlifting/powerlifting/bodybuilding exercise for a visitor/traveler. One day pass 149 SEK."
+                },
+                {
+                    "author_name": "Trent Archer",
+                    "rating": 5,
+                    "text": "This place is small, but excellent for someone who just needs to use a gym before their flight. There are treadmills, kettle bells, dumbbells and a good selection of the other normal equipment you should expect to find. It cost me £9/€10 for a day pass, which is very reasonable for Stockholm and in fact the cheapest I could find."
+                },
+                {
+                    "author_name": "juan hernandez",
+                    "rating": 5,
+                    "text": "Pretty cool gym. Drop-in passes are for 120 Swedish krona or around 11 USA dollars. Has plenty of cool machines although a bit small gym. Keep in mind that some people here workout barefoot so for those foreigners be aware."
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Regeringsgatan 59, Stockholm",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/stockholm-regeringsgatan",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=3104278175264985870",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q69nU14SIButPI7NbA7Fdvm6H1FzM36BApmmIlHUs_hpPDwUQltx9d023tjRowmNrkYxszxJIf1Bcte86OjIghFp13Oo9hmUGqpOt7I3iWA7e_Nm3WiDLUGgmXmUl3eJ1gh4OSnqNoFNkCiNfX6hpO46VYkYZyPHRF4Y-OretnO238y&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Chrystel Sinclair-Brandt",
+                    "rating": 4,
+                    "text": "Honestly, no problem. I like this gym a lot. My problem is the people. When I get there at 5 in the morning, weights are everywhere and it's dirty till the cleaning ladies arrived. Also at times I am in the girls gym... You girls lettings those weights drop on the floors should be banned. Seriously, it's disrespectful. I wish the girls gym was a bit bigger or had a bit more but it's good."
+                },
+                {
+                    "author_name": "Jessica Storm",
+                    "rating": 5,
+                    "text": "The size makes it so nice to workout because there are usually not too many people. Nice and clean. Feels new"
+                },
+                {
+                    "author_name": "Gustaf",
+                    "rating": 5,
+                    "text": "This is definitely one of Fitness24Seven's best gyms, at least in the Stockholm area. It's big, has a great staff and is nicely located."
+                },
+                {
+                    "author_name": "George Campbell",
+                    "rating": 5,
+                    "text": "Fitness24Seven in general is a great gym i would recommend to anyone whose job has them finishing at odd times and in different places! You can always find a gym!!"
+                },
+                {
+                    "author_name": "Oliver Engist",
+                    "rating": 3,
+                    "text": "Equipment is old and rusty, but it works ok for the price. The old weightlifting bars with the jammed bearing should be thrown out.\nCannot comment on the locker rooms/showers as I have never used them."
+                }
+            ]
+        },
+        {
+            "Företag": "Member 24 Solna Centrum",
+            "Adress": "Postgången 42, Solna",
+            "Hemsida": "http://member24.se/gym/solna-centrum/",
+            "Telefon": "010-810 41 70",
+            "Google-profil": "https://maps.google.com/?cid=6817717155043911883",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5HZJ08v3XLiaFfzem9V_OFJGqf5Nlo_fIjT0vrZHe2_tEexRh-fGO5id75xFfTiO9JA8w32LHCVwBnXuBePLo5qa3ei_aM4S_QGamKNpCm6SMeKYo9_V-CD7jK_vySmIW0hAwKfWRemOEOGaJvVX7NQh-7DA_YoJzBV6utztbFZLpX&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Dragonfang",
+                    "rating": 5,
+                    "text": "Great gym with lots of machines for cardio and lifting. They also have 2 heavybags to practice some boxing too. Totally recommended."
+                },
+                {
+                    "author_name": "Tyden",
+                    "rating": 1,
+                    "text": "Me and my girlfriend started working out at Member 24 in Solna Centrum during August, we just graduated high school so we are renting a place here in Solna and we would move out after a couple months so we told the staff to make a monthly membership. Now, when we are about to move we find out that the person who made our contract even though we told him we will probably move out in January, he made a 1 year contract with us, without saying anything. This incident is going to cost us more than 6000 kr for both of us as not even the new \"Manager\" of the gym wants to help us. The gym is a normal gym but the staff are lying to their customers and tricking them for more money."
+                },
+                {
+                    "author_name": "S S",
+                    "rating": 1,
+                    "text": "Very much disappointing from the beginning. I , today registered to test the gym for a week free training session based on their website. They said to me I need to come to gym between 15 to 19 to do the registration internally after I did the registration online. When I arrived to the gym they asked me to pay 99 SEK in order to have some sort of access card to the gym if I want to enter to the gym between 5 a.m to 23 p.m for a whole week or I just come during the week when the receptionist are there ( mainly between 15 to 19 on weekdays).\nIt is ridiculous to ask money for a week free training test period time. If that is the policy it should be mentioned in the time that you register online. Moreover, I downloaded their application to see if I can login via my registered email but it does fail too."
+                },
+                {
+                    "author_name": "M",
+                    "rating": 5,
+                    "text": "Great gym! Amazing staff and always clean"
+                },
+                {
+                    "author_name": "Mani Vez",
+                    "rating": 5,
+                    "text": "Great 24h gym in the middle of Solna with a the 1950's retro-themed environment. Fully equipped with Technogym machines, lots of cardio and heavy weights for the lifters. Not crowded and nothing to be jealous of more  popular chain gyms. 💪"
+                }
+            ]
+        },
+        {
+            "Företag": "Sports & Fitness",
+            "Adress": "Kanalvägen 3, Upplands Väsby",
+            "Hemsida": "https://sportofitness.se/",
+            "Telefon": "08-590 745 00",
+            "Google-profil": "https://maps.google.com/?cid=11035628226644492891",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6B_TbsDIU2wZ60wfaqyZBclbgPqjfaGQvVcDCULWvsocuDCNgP8cvLkqD89PYbU-Vh8YhZ7NM6ICJj5EEhM4D6IBT34L8jrfmZPVwznhP4PC7C2iA9C8wWlpGMymGY9nIMEy1iq9xdDH5DT8j9YLwgO7gVslGYtwPs1d62s9UukOlz&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Kane",
+                    "rating": 4,
+                    "text": "Good open hours, lots of space, good equipment and decent sauna. New equipment, good options between machines and free weights, large open space makes gym feel airy. Some visitors need their mothers to accompany them to show how to re-rack the weights."
+                },
+                {
+                    "author_name": "Suzanne Hourani",
+                    "rating": 5,
+                    "text": "Great place with all gym machines you can ask for. Very nice personnel and very helpful"
+                },
+                {
+                    "author_name": "Björn Kenneth Holmström",
+                    "rating": 4,
+                    "text": "Positive: Well equipped\nNegative: Not all showers work. Plays music with commercials"
+                },
+                {
+                    "author_name": "Dejan Novakovic",
+                    "rating": 5,
+                    "text": "👍💪"
+                },
+                {
+                    "author_name": "patrik barth",
+                    "rating": 5,
+                    "text": "Fantastic nice and well-equipped gym for those who go to the gym to train for real😉, travel a lot both in Sweden and some in Europe and have trained a lot in different gyms and compared to the 100s of gyms I have visited over the years this is definitely among the top 5🤩👌"
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Sveavägen 13, 15, Stockholm",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/stockholm-hotorget",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=16125206826214977410",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q64PTQpe4H-UEU3VnsjyEP5BfIs3KB9TXBOOY2h_KZ8UBY_ek3FCryY5iRjzKBKr0evAWA4fBnWJlOi8li5nDfxMvP_TCNwFLYRTdfAB9mFRolBKPl57m6gfKE8SUdsAnsebwbnrlPSQsz00ARDNozvU9VfR2dXO9hJ307LDiWQteea&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Wang Poh Peng (Ric Wang)",
+                    "rating": 5,
+                    "text": "Efficient and fast registration service for foreign visitors. Price is affordable and English communication possible. Great equipments overall as well!"
+                },
+                {
+                    "author_name": "Marius Matei",
+                    "rating": 1,
+                    "text": "Tried to use it during the weekend but couldn't, their servers were down so no one could login in the app. For cases like this, the cards should be the default option to allow access but they stopped them when they switched to the mobile pass. Really smart!"
+                },
+                {
+                    "author_name": "Liza Permohorska",
+                    "rating": 5,
+                    "text": "Went to the gym at Hötorget to get some help with renewing my membership. Very sweet personnel. Oskar helped me with singing a new contact, explained everything in details and ensured smooth and pleasant customer experience!\nThank you so much!"
+                },
+                {
+                    "author_name": "Jody Rosén",
+                    "rating": 3,
+                    "text": "The gym has 2 floors. First floor is for cardio equipment and lower floor is for weight and group training. It has 2 grup training hall which is good. The lower floor is underground which is quite common for 24Seven in Stockholm. It is quite light tho, better lighting than other gym."
+                },
+                {
+                    "author_name": "Kauri Maher",
+                    "rating": 5,
+                    "text": "best fitness 24/7 in Stockholm city!!\n\nForget about the other places, go workout here!!!\nMany thanks to Karl and Carlos (both staff here) who were super helpful, welcoming and helped with my workouts too, you guys are awesome!!\n\n- Lots of space\n- loads of machines\n- big hall for stretching and dance etc\n- Good changing rooms\n\nThanks :) for staying open during corona, absolute godsend! :) here is a pic of me and home-dogs looking swole!!"
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Kruthusbacken 70, Solna",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/solna-rasunda",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=9982852643821231338",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4s0CBep8gg-pFysmI5vO6it9wi7JNbZRkDC-GFio4-4bbBKlIS9FRk4zf0UnniDP0hjtkTH9WTCYykSzJEZIaEhW-0LouqpscwHD468UP5mXeruCis15UxI8fIihUkHZsdbBtkIciMmZB3LEW-8yeJPgZgCeosTgQP2RkXpsohPtSy&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Pallavi Kilania",
+                    "rating": 5,
+                    "text": "Great gym with good equipments and machines. There's a separate section for women and it's definitely bigger than other gyms that I have been to. This gym also have the a personal trainer on site which I opted for. Sonja is a terrific personal trainer and helps you with workouts which your body can perform. Overall, I have been a member of this gym for the past 8 months and it's been a great experience."
+                },
+                {
+                    "author_name": "B J",
+                    "rating": 4,
+                    "text": "I mean it’s a big chain which focuses on volume, the equipment is low quality and if you’ve been to decent gyms then you’ll have some complaints about this place.\n\nBUT. It works and their big, big plus is that they are located absolutely everywhere and it’s obviously open 24/7 on all locations.\n\nTo just have the option to go in and shower and freshen up if you’re on a road trip is worth the money. Because as I said, they are located absolutely everywhere."
+                },
+                {
+                    "author_name": "Thomas Peterson",
+                    "rating": 2,
+                    "text": "Good gym except that it is way too hot during summer. The heat either makes it too hard to train properly or train at all."
+                },
+                {
+                    "author_name": "Aris Giannakos (Greek Swedish Network)",
+                    "rating": 5,
+                    "text": "Too good for its cost, almost better than gyms costing double as much, also offering 24/7 open being unique!"
+                },
+                {
+                    "author_name": "Ingrid CF",
+                    "rating": 5,
+                    "text": "Well-equipped with everything I need to a very good price! Has a women-only area, group classes, spacious stretching areas, nice staff. I have been going there for 5 years and will continue to do so. Also very lucky that it is 3-min walk away."
+                }
+            ]
+        },
+        {
+            "Företag": "Sweden Barbell Club",
+            "Adress": "Pontonjärgatan 31, Stockholm",
+            "Hemsida": "https://swebc.se/",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=16905030545665397420",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4gdWSKQIZFMoaiQ-UJG3RkPzdIBE4K_BMDQpKonbkWtbnWv_4syksEfW-_LIPxCZaPkHjSi38kxzULgZKayLy8_EKV4PtAJQapEXx4O7RVwm-Ab_RFTurLiXu_nf1_ksksORLnWYS8BvBtaXsSDeOKeG5vsJpSJb3mbyO1clEWfE4Z&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Till Zweifel",
+                    "rating": 5,
+                    "text": "Super nice Gym its a gym for everybody who likes freeweight and strongman training it has stones carrys loglifts and every barbell you can think of!!!\nand de personal is super friendly\nclearly five from five stars"
+                },
+                {
+                    "author_name": "Zack Stratis",
+                    "rating": 5,
+                    "text": "Best gym I’ve ever been a member of for very personal reasons - real equipment, kind serious body builders and experienced trainers. This private owned gym is elite for all the right reasons. I hesitate to share this because I really don’t want others to know. But if you always re-rack your weights, feel comfortable screaming and keep it simple - then this gym is for you."
+                },
+                {
+                    "author_name": "Vladimir Rakic",
+                    "rating": 5,
+                    "text": "Awesome strongman gym. For a day pass you need to book via the website and you'll get a QR code you can scan at the entrance."
+                },
+                {
+                    "author_name": "Maria",
+                    "rating": 5,
+                    "text": "A really good gym with heavy dumbbells and strongman equipment. Was on a class led by a pedagogical instructor who showed the technique in a very good way. Class was well planned and really fun and tough. The gym is connected to Bruce. You can take the subway to Fridhemsplan, the gym is about a 5 minute walk from the station."
+                },
+                {
+                    "author_name": "Karel Bemelmans",
+                    "rating": 5,
+                    "text": "A dedicated strength training gym, not big on fancy looks but they got all the heavy things you need to train hard.\n\nThey also do Bruce classes which are always fun and challenging. Don’t let the weights scare you even you never trained like this, the exercises will be scaled to your level."
+                }
+            ]
+        },
+        {
+            "Företag": "Gymmet Sthlm",
+            "Adress": "Årstaängsvägen 33B, Stockholm",
+            "Hemsida": "http://www.gymmet.nu/",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=1243102201635246408",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6fuI6U9FC_oU8jQLr_EGB_g-6rUSeBb2JxJ8LkBvBYamnIqNkf8axPZDmZDYHK6qP-h5PxH8ZIc_mkN0x0nwJUvYDfZOEClKCINwSBgmlf9TQ7Yf1cZ7J71h_yDrKdz1hXa_cJXFfydCjSb_b3CMfGwebkmP-AJapJ5Sh_-mvK7bmR&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Parag R",
+                    "rating": 5,
+                    "text": "Nice facility. Lots of free weights."
+                },
+                {
+                    "author_name": "Balaji Kuppusamy (Bryan J)",
+                    "rating": 5,
+                    "text": "The most complete Gym I have been in Stockholm so far!\n\nLots of quality equipments. Elite/Highly motivated people train here and it gives inspiration for others to be inspired.\n\nVery clean and neatly maintained. Open for 20 hours a day which is great. You can train anytime literally. Aerobics floor and weights floor consist a lot of equipments that I have only seen here."
+                },
+                {
+                    "author_name": "avalunea",
+                    "rating": 1,
+                    "text": "Tried to go here during our vacation and the gym is not manned, fine. So we try to register online (which is like 5 steps, but okay - Nordic performance center is a gym that does it right, you just pay and get a code and go inside!)  but we need a swedish bank ID for that which we obviously do not have. There is no number to call, no way to get ahold of someone. Amazing. We walked here 30 minutes and can now walk back home again."
+                },
+                {
+                    "author_name": "Dane",
+                    "rating": 5,
+                    "text": "Getting a week membership here during my Stockholm visit was easily one of the best decisions I made. The equipment/facility is clean & organized, staff is friendly, flexible hours, and they offer a variety of ways to train (weight training downstairs, cardio & aerobic/calisthenic stuff upstairs). Can’t recommend this place enough, awesome!!  **heads up to non-Swedish citizens**: you must speak with staff in-person to get a day/week pass membership (online registration requires a Swedish SSN), so aim around 11-1500."
+                },
+                {
+                    "author_name": "Alexander Soderqvist",
+                    "rating": 5,
+                    "text": "Got a week pass while visiting from London and loved every second of working out here. Amazing gym, clean, not overcrowded (went between 9am-11am). Very experienced crowd and biggest variety of machines I’ve seen in a gym. Highly recommend!"
+                }
+            ]
+        },
+        {
+            "Företag": "Träningsverket Danderyd",
+            "Adress": "Enebybergsvägen 16, Danderyd",
+            "Hemsida": "https://www.traningsverketdanderyd.se/",
+            "Telefon": "08-750 90 75",
+            "Google-profil": "https://maps.google.com/?cid=10999629096531815059",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7lIPmzIrXAKN2FZSrnmhV-JuqyyclPQl0REl7u0kLuacyuniJ5rfxKpya6OSQlQitH7SFwUjh58Ukz50RFG9-bCEe7jaP6GK-MkJ6aB6GW2DlHWrv86KRa63BXH4zbAsXjeFoOLA5bPpJ2PVvj1c2XOOMYwv-1Ffev-q_njPk07YyJ&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "R & N W",
+                    "rating": 5,
+                    "text": "Beautiful gym. Has everything one would need. Very friendly staff. Has a free 1 workout trial for new members. Sauna. Body measurement machine."
+                },
+                {
+                    "author_name": "Andriy Kishchuk",
+                    "rating": 5,
+                    "text": "The perfect place to train! I recommend!"
+                },
+                {
+                    "author_name": "Lena “Lenaleinen”",
+                    "rating": 5,
+                    "text": "Super nice gym. It's quite modern and welcoming inside which you wouldn't expect when seeing it from outside. The staff is very friendly and helpful! Personal trainers are highly motivating."
+                },
+                {
+                    "author_name": "Omar Sadik",
+                    "rating": 5,
+                    "text": "Good and clean"
+                },
+                {
+                    "author_name": "Rikard Svensson",
+                    "rating": 5,
+                    "text": "Fresh gym, good equipment. A gym that stands out. Worth visiting!\n\nThe first time is also free!"
+                }
+            ]
+        },
+        {
+            "Företag": "STARK - Södertälje ( 24/7 )",
+            "Adress": "Wedavägen 18A, Södertälje",
+            "Hemsida": "http://www.starkgym.se/",
+            "Telefon": "08-550 101 33",
+            "Google-profil": "https://maps.google.com/?cid=14155695038217660241",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4925S7RherxNtnI0bhPGlFiEc5-NgX3kWF3ChcJWugrMJ5JNYX9Pzy1tbmhHhz1C2kweUWOgzAjDQZjfqGQ81P42y_OZMSb6V4wNDVBkpn_UccHV6_e-q96uU1uGAgrTu0spxz_bkRjilHabz87yiKYg-tub0speyQmA9PjJaSMuDD&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Anton Samuel",
+                    "rating": 5,
+                    "text": "The very best gym I have been to in Sweden, new, well maintained machines, good atmosphere, crossfit room, mma room, posing gallery and a tanning bed, everything you need in one place.\nThe staff is helpful and the atmosphere is friendly."
+                },
+                {
+                    "author_name": "Mariusz Mirek",
+                    "rating": 5,
+                    "text": "I am from Poland and I am really impressed by the gym, it is what it is supposed to be, i.e. to everyone according to the needs and possibilities, I definitely recommend it !!!"
+                },
+                {
+                    "author_name": "Marta Nowicka",
+                    "rating": 5,
+                    "text": "Great gym with brilliant equipment! Worth visiting."
+                },
+                {
+                    "author_name": "Nova Yuan",
+                    "rating": 5,
+                    "text": "Great gym. I like the environment there. You feel you have to fight one's you enter the gate of the gym."
+                },
+                {
+                    "author_name": "Vidyadhar Salunkhe",
+                    "rating": 5,
+                    "text": "Nice gym 🏋️‍♂️ 💪 👌"
+                }
+            ]
+        },
+        {
+            "Företag": "Metropolis Health Club AB",
+            "Adress": "Birger Jarlsgatan 36, Stockholm",
+            "Hemsida": "http://metropolisgym.se/",
+            "Telefon": "08-611 35 05",
+            "Google-profil": "https://maps.google.com/?cid=13729889030738650520",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "",
+            "Recensioner": [
+                {
+                    "author_name": "Amin Bell",
+                    "rating": 5,
+                    "text": "Best and cleanest gym in town. Would be hard to go back to anything else when you are a member here 👍🏻"
+                },
+                {
+                    "author_name": "anders lagerqvist",
+                    "rating": 5,
+                    "text": "Really rewarding workouts and a positive experience as a whole, a fresh & calm gym."
+                },
+                {
+                    "author_name": "Charles Mellin",
+                    "rating": 5,
+                    "text": "Really good! High quality and added value on everything. Family atmosphere and good fit. Sthlm's best gym"
+                },
+                {
+                    "author_name": "Gustav Palm",
+                    "rating": 5,
+                    "text": "Cozy, clean, high quality equipment and nice people who train here."
+                },
+                {
+                    "author_name": "Leif Von Holstebro",
+                    "rating": 5,
+                    "text": "Been looking, thinking about enrolling there"
+                }
+            ]
+        },
+        {
+            "Företag": "W8 Power Club Gym",
+            "Adress": "Holländargatan 31, Stockholm",
+            "Hemsida": "https://w8club.se/w8-city/",
+            "Telefon": "070-047 64 76",
+            "Google-profil": "https://maps.google.com/?cid=15287292467952608503",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q52Sy1S4-n8faLJs_0ukoiaymNR7RyJ8fhkAob2Z10055YPWfbffkPbC0e_EsxUT2gFnnJRUFaZFhPQsqXxgoBtQYywV2XCKGYkihxS0jrUetE5Jy6F2suLG6p0vtq44b9-0Uu7bVm9yNfu-p3KPLCIazqlKQuTsV3fCoZLjbcpsHtY&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "World Proven",
+                    "rating": 5,
+                    "text": "Very well equipped gym in central Stockholm. A day pass is 100 Sek (about $10)"
+                },
+                {
+                    "author_name": "Patrik Masár",
+                    "rating": 5,
+                    "text": "Excelent power gym. Open from 6:00 you can just come and buy day ticket in automat.\n\nVery clean, so many options for trainig.\n\nI recomended 10/10"
+                },
+                {
+                    "author_name": "James",
+                    "rating": 4,
+                    "text": "The equipment is good and the layout is great. Access is straightforward. This gym would majorly benefit from more staff, the gym is clean but the equipment is very dirty. Some not great behavior from gym goers e.g skipping the gate, taking up excess space. When staff have been there they’ve been quite unfriendly."
+                },
+                {
+                    "author_name": "Cemre Güngör",
+                    "rating": 5,
+                    "text": "TONS of power racks and equipment, clean. Drop in rate super reasonable. Highly recommend."
+                },
+                {
+                    "author_name": "Isidor Mattsson",
+                    "rating": 5,
+                    "text": "Great place! It has all the equipment and facilities for a good healthy training. I was regular at first, but now there's hardly any time left for it. However, the gym is one of the best I've seen!"
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Hvidovrestråket 3D, Sollentuna",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/sollentuna-centrum",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=16955541113588492040",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7AsenG5A-B3dYzrxr2iU63w1OYpqxqs1TUpCXDdUV7QKoNpu3CnSgOvqkpWEP9qB_-deQCuJJKk1fptVwnXpKHP0Xuj8kBHffYPDI53tz6fubdvJjHfAPJwwoX_AuW_9mtOEP5mlPBibSBE1UMZwJPcz1lbuvsH5wTkiW3WzXVUgiq&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Raluca Munteanu",
+                    "rating": 2,
+                    "text": "The gym is good but staffing is irregular and unpredictable and customer service is trash. I needed help with my membership card so i went in yesterday at 4 (which is indicated on the website as a time when the gym is staffed) and nobody was there until 5 pm, when I left. I contacted customer service and they said that they didn't have any absences and ended the conversation.\n\nIs this a business or a joke?"
+                },
+                {
+                    "author_name": "Josef Bizri",
+                    "rating": 5,
+                    "text": "The best chain of gyms in Stockholm and this one is like the other ones: very well equipped, very moderate prices and your membership card allows you to access any gym of the chain any where in the world!"
+                },
+                {
+                    "author_name": "Christian Castillo",
+                    "rating": 4,
+                    "text": "Pretty well maintained with a descent variety of machines, weights & tools although the free weights under 10 kg tend to mysteriously disappear. The staff do a good job of re-stocking and keeping the place clean and in working order.\n\nNot the biggest and therefore does not offer group training sessions of any kind. I suggest you visit their flagship gym located in Kista science tower if that is your thing."
+                },
+                {
+                    "author_name": "Marian",
+                    "rating": 2,
+                    "text": "I can't make a subscriber card for myself, there is no administration there. 👎🏻"
+                },
+                {
+                    "author_name": "James Tucker",
+                    "rating": 3,
+                    "text": "This is specific to the sollentuna location. Fitness 24/7 as a whole gets 5 stars! It's the cheapest gym around, and great value for money!  For 200kr a month, it can't be beat. I've been to several locations around Stockholm, but this is my 'home gym'.  It's a bit more basic than other locations. The machines are limited, there's only one power rack, one bench, etc. So,  if you come at a busy time, expect to wait for a machine/equipment. The regulars are all quite friendly, and happy to give you a spot if you need one. The equipment here is a bit run down, half the plates seem to be missing chunks of plastic, the kettlebell set is missing some weights. Theres a 'tjejgym' in the back but I have no idea what that looks like.\nIf you're after some cardio machines or basic lifting, it's great."
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Blekingegatan 63, Stockholm",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/stockholm-skanstull",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=15671928492168008634",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6i75MCP3hScW6CL7aj4cATvV4zZyXc7WfxGct2SYfVgpEkcydIpRl-r26dzHgze__4JEA61OvZcFWiVljU1xxbdBa-G1BTSgbkAekM6CrRnNOIHqxbWuCQ_6s_J_uKN3KABq-hHqa5MUNAEQ47zyCvExqbUnAgmYN6EZCDSICxi5TI&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Duc Anh Bui",
+                    "rating": 4,
+                    "text": "Decent gym, the largest Fitness24Seven gym I have ever been to. There are also classes held here compared to other ones which were pretty small and basic without classes. I was surprised that it was that large because the main area of it is one floor downstairs. Large space but low ceiling and lack of air circulation/ natural lighting makes it a bit boxy training inside. The reception area is also really small and a bit dirty. The main training area is clean though. Overall a good gym especially for the price with more equipment/space to others of the chain."
+                },
+                {
+                    "author_name": "Jody Rosén",
+                    "rating": 4,
+                    "text": "It has 2 floors with most of the training area is underground. Upper floor is for receptionist and treadmills. The game have several studios for different group training, which I think is good. The local has separate sections for different machines. It doesn't have a open interior concept and it's fine. There's enough roof light so I don't feel too claustrophobic."
+                },
+                {
+                    "author_name": "Sergey Voronov",
+                    "rating": 1,
+                    "text": "Came here on Monday at 5:30 pm when someone is supposed to be there as I needed some help at the reception. But nobody was there."
+                },
+                {
+                    "author_name": "Wilmer Lindau",
+                    "rating": 4,
+                    "text": "One of the better 24/7 gyms in Stockholm. Has what you need for a low price. Equipment is relatively new and seems to be maintained well. Can get crowded at peak hours."
+                },
+                {
+                    "author_name": "Mr. George Ellem",
+                    "rating": 4,
+                    "text": "Decent gym space and equipment but there was a distinct lack of lava lamps and comfortable beanbag chairs. Not the greatest hotel I have ever stayed in but good for one night."
+                }
+            ]
+        },
+        {
+            "Företag": "Mitt Gym Sverige AB",
+            "Adress": "Tellusborgsvägen 90, Hägersten",
+            "Hemsida": "http://www.mittgym.se/",
+            "Telefon": "08-755 50 85",
+            "Google-profil": "https://maps.google.com/?cid=6970384539805139942",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5KUX0yiv7I6GI6rF9nURBF9UinnB2IyqCNsCJbxjtKuybsYAEKLQdSvEXpp7d_HQ-4DPlay_R132tLc9phXHdZq87Z08up7LtqUt8RkKBRlA283F5UVf1sFS7z-bKZ1AGdNi3cv7qGyHuFKwKd325YQWO95zLs9GWTRqYwZB4W-Ym_&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Sue Theron",
+                    "rating": 5,
+                    "text": "excellent gym - good equipment, perfect to run off the winter blues.  I found the place clean, easy to use, and also the music was cool to work out to - energetic without being intrusive - and not too loud"
+                },
+                {
+                    "author_name": "Cletus Stewart",
+                    "rating": 4,
+                    "text": "Extremely small, but has a lot of variety and is good."
+                },
+                {
+                    "author_name": "Jonas Lund",
+                    "rating": 4,
+                    "text": "Nice and calm. No broiler attitude."
+                },
+                {
+                    "author_name": "Izabela J. Chabik",
+                    "rating": 5,
+                    "text": "Friendly neighbourhood gym. I like that's it available every day."
+                },
+                {
+                    "author_name": "Daniel Bladini",
+                    "rating": 5,
+                    "text": "Good gym with everything you can think of. I like that the weights and some of the stuff have a bit of a builder's gym vibe. Cheaper than STC and better in my opinion. Can really recommend."
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Kista Torg, Kista",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/kista-centrum-group/",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=18093016898455588227",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7zDtkg9oWKt5BsieTALTVbnuZ_-ZBU8FtrIu5wPJKADQEnuun36RobFGx7pUDvgGTXnPpFo_vzqbBHwE3Kxh3pU-x8LBE8GvMH5mP6cghLj_yMLAQg4SQvLkv-OMoLmN_VGtQ0FTNPgVDd9kDzmHxRMGcvneOllvktPsP2X3fGMJGB&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "sakke",
+                    "rating": 5,
+                    "text": "Clean new machines. Lot's of space and great location! One of the best Fitness24Seven gyms I have been to for sure."
+                },
+                {
+                    "author_name": "Bo Nadelius",
+                    "rating": 4,
+                    "text": "It's a good gym for the price you pay. Usually lots of people at lunch and from 4pm. There are plenty of lockers and showers.\nStaffed from 11am on weekdays if you need to get in through the bigger entrance.\nYou can buy snacks and PWO etc in a self-service kiosk."
+                },
+                {
+                    "author_name": "Emmali",
+                    "rating": 2,
+                    "text": "If you are a woman and into lifting heavy this is NOT the gym for you, the girls area lack a lot of weights and people tend to not put things back, which is normal at these gyms but this one is on another level!\n\nIf you are comfortable outside of the women's area this place is great though and the staff is amazing!"
+                },
+                {
+                    "author_name": "Jesper Biveros",
+                    "rating": 2,
+                    "text": "An extra star for the low price, this gym is, however, really crowded and with equipment that has seen better days it is not possible to give a great score. The space itself is nice and clean, that is the positive part. There is a sauna, but it is closed as the gym is not staffed during the whole day. Extra warning if you are claustrophobic, there are really small cublicles to pass upon entering if the reception is not staffed."
+                },
+                {
+                    "author_name": "Ali Raza",
+                    "rating": 1,
+                    "text": "Worst customer service. The people on the reception don't have any manners and I cancelled the membership right away. I have sent a complaint to customer service they called back and when I told them everything the reaction was 'we don't care whether you stay with us or not'. One of the worst customer service I have been experienced"
+                }
+            ]
+        },
+        {
+            "Företag": "Fitness24Seven",
+            "Adress": "Fruängsgången 5, Stockholm",
+            "Hemsida": "https://se.fitness24seven.com/vara-gym/se-vara-gym/stockholm-fruangen-c",
+            "Telefon": "Ingen telefonnummer tillgänglig",
+            "Google-profil": "https://maps.google.com/?cid=17119508531048168244",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6hzU2wY6tt--45oCGeFyEdivS8FbGNRc6HIekdXyywpmPuOaigY02rdzPvzmyeRJZ1_E1Y9LR6FBzYi44VOMYGTVRmUQoNhYdHIyXdq2saZgJVyXXCVjT-Shk2WlTNyJQs3GIwAENhC28WdTnfdtNJDlpGjvhDRUpUVAJrndp30iCg&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Mariana Eller",
+                    "rating": 4,
+                    "text": "I didn't visit other gyms here in Sweden but I can honestly say that this is a nice one, it looks small from the outside but you can find all types of  equipments. The staff is friendly and helpful, the place is clean and organized.\nThe area just for women have one of each of the basics machines but it's really complete.\nIt's located at the Fruängen Centrum, so if you live around here and think about going to the gym, you should consider this one! 😉"
+                },
+                {
+                    "author_name": "Gayanjith “Ganji” Loku Pathirage",
+                    "rating": 5,
+                    "text": "A very nice gym. Almost empty in the morning so if you want to avoid the crowd, you can go in the morning. It has almost all the equipment you need to complete most of the workout plans. Group trainings are availabe as well."
+                },
+                {
+                    "author_name": "S H",
+                    "rating": 4,
+                    "text": "Pretty good place for workout. One of the bigger ones, I think, counting the huge Ladies' gym. Kept pretty clean. Classes. Pleasent personnel.\nI was not able to enter the other day, which felt absolutely unacceptable, though. Took the car to the Älvsjö gym, no problem getting in. They have no explanation.\nCosts 200kr/month.\nRight at Fruängen centrum. Metro red line Fruängen.\nHemköp and Coop next door."
+                },
+                {
+                    "author_name": "Stanislav Ivanov",
+                    "rating": 5,
+                    "text": "It is very fresh as it was opened in the last couple of years. It has everything necessary for a work out. However, it is a 24/7 gym, so keep in mind it is a budget one, do not set your expectations high in terms of lots of quipment."
+                },
+                {
+                    "author_name": "Bakki RJY",
+                    "rating": 4,
+                    "text": "It's very near to T-bana and multiple equipments for gym ...you should try once"
+                }
+            ]
+        },
+        {
+            "Företag": "Nordic Wellness Lindhagen",
+            "Adress": "Lindhagensgatan 118, Stockholm",
+            "Hemsida": "https://nordicwellness.se/vara-klubbar/stockholm/stockholm-lindhagen/",
+            "Telefon": "010-155 54 61",
+            "Google-profil": "https://maps.google.com/?cid=14589830032900624233",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4JleoINSAOuUD3k0u07JoLQIy6MKDG1yoP9iBGjyOfDy_6yqFeb0J1m89iKv-0Zraqf6F0l4hUY-xuNDthTQSHWxXy_Z3bmFFFtGRgbtdtV4h2bxoAw4eYNmiSQeTNenmUK-uMujv-1dcuiD5HqMaU1mTnPJ9csCmVbQAm5dLnben9&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Stefan Khoo",
+                    "rating": 5,
+                    "text": "Best gym in Stockholm"
+                },
+                {
+                    "author_name": "Ancestorius",
+                    "rating": 2,
+                    "text": "Mens changing room had showers that turned off every 3rd second, no soap, one toilet with a broken lock and only a thin wall that didn't block any vision.\nNo visible indication to find the changing room. Dirty lockers"
+                },
+                {
+                    "author_name": "Linda Kummel",
+                    "rating": 4,
+                    "text": "Great gym! It has a fully equipped gym, a cross cage, a yellow circle room, classes etc. The staff is nice an friendly and the changing rooms are nice. The lockers are locked with your membership card. The \"open\" toilet in the women's locker room keeps me from giving this gym a 5."
+                },
+                {
+                    "author_name": "Nicola Detta",
+                    "rating": 5,
+                    "text": "Really great gym. Very welcoming atmosphere thanks to the reception staff. Nice gym area with lots of different machines. Ealatively quiet in the morning. Conveniently located in the same building as a big grocery store"
+                },
+                {
+                    "author_name": "Miguel Ramos Vieira",
+                    "rating": 4,
+                    "text": "Nice gym, very functional and has the necessary machinery you need to improve. They offer a 7 day try out period free of charge, however they dont have monthly no contract, you need to sign up for a year contract in order to use the gym."
+                }
+            ]
+        },
+        {
+            "Företag": "Nordic Wellness Stockholm Drottninggatan",
+            "Adress": "Drottninggatan 24, Stockholm",
+            "Hemsida": "https://nordicwellness.se/vara-klubbar/stockholm/stockholm-drottninggatan/",
+            "Telefon": "010-155 54 02",
+            "Google-profil": "https://maps.google.com/?cid=7912452777676052866",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5yjUqIlM0EqSgqCUiGTRzJHDwcWR2kjN6d0Ng5tm4E4vyi75aKe9hdPXLE5R9P42dAwJKRR4bE5MMHOSI51VuBCw4HX5G36MGUJMvTOk6QILe-s011M6XSOnKabVUpZ5RasKQTqyMnZ-iRjv-rzjGdhkvAo1zzG620WegiuHyG906W&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Карина Гордюшова",
+                    "rating": 1,
+                    "text": "Very poor service, staff can’t fix hairdryer for a month!!! I have to spend 2-3 minutes to find clean locker in changing room 🥴\n\nUpdate 31.01: the hairdryer is still broken 👍 it’s been 2 months from now. Good job Nordic Wellness"
+                },
+                {
+                    "author_name": "D S I",
+                    "rating": 1,
+                    "text": "Too many people at evening time. Busy machines. Must be minimum one extra bench for Smith machine. Tight locker room for such count of lockers. And the worst is sauna. Not enough stones at stove what you can see heating elements. Not good for breathing if water will get on them. Also stinky smell inside sauna all the time. Probably canalization problems. But otherwise modern gym. Lot of good machines. Clean inside. Nice atmosphere"
+                },
+                {
+                    "author_name": "Jamie Mitchell",
+                    "rating": 5,
+                    "text": "Got a pass for the week while staying in Stockholm. Clean and very well equipped gym. Showers and sauna available. Didn’t attend any classes so can’t comment there. Helpful and welcoming staff, speak very good English."
+                },
+                {
+                    "author_name": "Burrito",
+                    "rating": 5,
+                    "text": "Sadly, this review isn't accompanied by photos, as I forgot to take any during my time using Nordic Wellness.\n\nI obtained the 7-day pass once we arrived at Stockholm, as the gym was close to our stay and it was so easily accessible since everything around Old Town is within walking distance.\n\nThe gym overall can seem a bit small since it is a one floor gym that somehow managed to pack ALL types of workout equipment. However as small as the space can be, they are able to utilize it very well with every area having just enough space not to feel crowded. I've been to a decent amount of gyms and there was just something about this one that felt comfortable to me. Staff are mostly doing their own thing majority of the time, but are very helpful and friendly if you need any assistance. Restrooms/Lockers are well taken care of, clean, and spacious, and there wasn't a single day that I didn't see the staff cleaning the machines, mopping, or taking good care of the place overall. The front desk has shoe covers for safety and cleaning purposes, as well as the usual goodies such as snacks, protein powders, shakers, straps etc.\n\nOne thing to have in consideration though, I never went to the gym past 8:00 AM since we had plans for the entirety of our days, hence why I would go so early. Having said that, the gym never had more than 10-15 attendants during those hours so it never felt cluttered. Nonetheless I can see how the gym can start to feel crowded at around the 25-30 attendants at the same time.\n\nIf you're in Stockholm I believe it is a great option to get your workouts in!"
+                },
+                {
+                    "author_name": "Dwa __",
+                    "rating": 1,
+                    "text": "The group training is extremely loud EXTREMELY LOUD I can’t pay attention on my workout even tho I have my AirPods on still can hear their music at the background they should definitely not be allowed to be outside of the group training hall. It’s just so disrespectful to be that loud while the others are quiet and doing their workout."
+                }
+            ]
+        },
+        {
+            "Företag": "Odenplan Fightgym",
+            "Adress": "Hagagränd 2, Stockholm",
+            "Hemsida": "http://odenplanfightgym.com/",
+            "Telefon": "072-545 22 44",
+            "Google-profil": "https://maps.google.com/?cid=11311229272007576528",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4M2An2mpKDCU5x6Sh3LKdFST1bXWuQPQGKVy8F3rrBmrPfqEdI3EtiIzLxZdVKw1MeWfQAtjOR0mzsEWuRZdJC-irsrRab_obUoVrGsVh5g72rCFMP6EWwvnG-WnnA2kHcxggZUWmyZi_eBH_dcytPp_H63EdqfUFaCUkhvlTn4ta1&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "M Rudjord (Ruds)",
+                    "rating": 4,
+                    "text": "I was in Stockholm for 4 weeks. Wanted to keep training Muay Thai while I was away from my local gym. I went for OFG, and don’t regret it. Very good trainers, and there is a general nice atmosphere there.\n\nI recommend bringing your own Gloves, because the borrow ones smell like death.\n\nThe facility is in a basement so at times the air can be really musky and feel thick. It’s the only thing that stopped me giving this fantastic gym 5 stars.\n\nIf you want to develop your Muay Thai skills, Odenplan fighting gym is the perfect place for you."
+                },
+                {
+                    "author_name": "Henrique Freitas",
+                    "rating": 5,
+                    "text": "Great instructors, if it's your first time they won't leave you alone, they follow your training, I felt welcome I'll definitely be back"
+                },
+                {
+                    "author_name": "Jasmine Way",
+                    "rating": 5,
+                    "text": "Nice underground facility (door is on the back of the building which is a little hard to find, just remember to go around to the back and there is the door). The staff are friendly and knowledgeable, great class exercise and they give corrections which I appreciate. The first 3 classes are free so you can check it out before making the membership commitment. If I lived in Stockholm, I would sign up for the membership."
+                },
+                {
+                    "author_name": "JP Tremont",
+                    "rating": 5,
+                    "text": "One of my fav spots of this city.\nGreat gym, trainers and atmosphere. Perfect place to start or develop your Muay Thai to professional level."
+                },
+                {
+                    "author_name": "Benjamin Bayard",
+                    "rating": 5,
+                    "text": "Best place to train! Great atmosphere and awesome training! A big plus for the gym section with Eleiko stuff, treadmill and rowing machine. One more thing, there's a sauna."
+                }
+            ]
+        }
     ]
 }
