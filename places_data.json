@@ -2706,5 +2706,727 @@
                 }
             ]
         }
+    ],
+    "restaurang": [
+        {
+            "Företag": "Amo restaurang",
+            "Adress": "Rågsvedsvägen 6, Bandhagen",
+            "Hemsida": "http://amorestaurang.se/",
+            "Telefon": "076-794 94 94",
+            "Google-profil": "https://maps.google.com/?cid=3166352327188404380",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6-YAShlUH6x4MiVyUz-eydmImgiPK7lNBvCFmuCw8qKlB8UNk0w8pyYt0ekKUBIfbGbAM1R58Knk4ldMPICYmN3SydWL-JpFzCVYYsnRVp2HEr7Rpy4XhrB4KfaUP_6nEIm84Ox0XAFr2mKBJkou0dPBcB7GixzOqwG-zEOSb-zWAx&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "atefeh Rabieh",
+                    "rating": 5,
+                    "text": "Love this place!\nThe food and the tea are delicious and the staff’s are very hospitable!\nI love that the tea is free and the food is less than 100 kr. I recommend it."
+                },
+                {
+                    "author_name": "L Rosarino",
+                    "rating": 5,
+                    "text": "Eat here very often. Best falafel in town I have tried and amazing value for money. Despite inflation over the past few years, these folks have barely raised the prices ❤️\n\nI often get the #8, or #1 when on the move (like now heading to airport). Also like the #3 on occasion."
+                },
+                {
+                    "author_name": "Anna Sundin",
+                    "rating": 5,
+                    "text": "Best falafel I’ve had north of Malmö! Love the added fresh mint and horse raddish that you seldom get in Stockholm. Lovely to have a place that focuses on falafel."
+                },
+                {
+                    "author_name": "Arsham Mazaheri",
+                    "rating": 5,
+                    "text": "Genuine middle eastern restaurant with great atmosphere of the same original feeling. Great quality of food and friendly staff. For falafel in Stockholm I'll never go anywhere else."
+                },
+                {
+                    "author_name": "haidar altaiar",
+                    "rating": 5,
+                    "text": "I recently dined at Amo restaurant and was thoroughly impressed. The falafel was absolutely delicious, with a perfect blend of spices and a crispy exterior. The service was prompt and friendly, making the entire experience enjoyable. Highly recommend for anyone craving authentic, mouth-watering falafel!"
+                }
+            ]
+        },
+        {
+            "Företag": "Chamsin Grill - Libanesisk Restaurang Stockholm",
+            "Adress": "Liljeholmsvägen 10, Stockholm",
+            "Hemsida": "https://www.facebook.com/profile.php?id=100063938079564",
+            "Telefon": "08-681 02 23",
+            "Google-profil": "https://maps.google.com/?cid=1704157978966640328",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7c2nK9r8yDTvm5M3cDS0CEr_ffXO_Dmamf-gdDp_auyDvxddE8H7S-VPaTqXm6-LLdr-UOXA9IHCmUQ_s2bRED6d3IbhpFMJU8Ic9iQCLEZwhQ-tSJmkOTf4OzB4EYVHOyE9SNp2sV0XcUo-F9TwI9by_fGhr8R4_wVJ9ezJmtzJMn&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "NBLâm HMUPH",
+                    "rating": 4,
+                    "text": "Another family style restaurant which I really appreciate, this time is libanesiska food. The food potion is big but we can still finish it and it's good even though the fish was a 20 minute wait ( the chef already informed us when we ordered ). The sharma is crunchy outside and soft inside, really up to middle east standard. The fish burns a little bit burn on 1 side but overall the food is good 👍. The atmosphere is ok but the table is a bit close to each other. In general, this restaurant is still very worthy to check out when you're hungry 😁"
+                },
+                {
+                    "author_name": "Muhammad Tarshan",
+                    "rating": 5,
+                    "text": "The restaurant is super clean(which is very important for me), this was my first impression when I got in. The food was super delicious. Fresh and not suggy. I have tried their pastries their fish dish with rice and bulgur. Excellent!\nThe staff is very nice and friendly.\nThis is my first time here but absolutely not the last one."
+                },
+                {
+                    "author_name": "Yuvraj Ramsaywack",
+                    "rating": 5,
+                    "text": "This is by far the best meal I’ve had in Stockholm. Absolutely loved the whole grilled fish, which was seasoned to perfection and left me wishing I had room for more! I still think about this meal some 5 months later, which says a lot. Highly recommend!"
+                },
+                {
+                    "author_name": "Malhun Fakioglu",
+                    "rating": 3,
+                    "text": "Unfortunately I was a bit dissapointed by this place. The staff was very welcoming and friendly, but the dishes were below my expectations. We ordered kebab talrik and mixed grill and both of them was below average."
+                },
+                {
+                    "author_name": "Md. Tareq Hasan",
+                    "rating": 5,
+                    "text": "Grill sea bream fish is highly recommended"
+                }
+            ]
+        },
+        {
+            "Företag": "Grodhavet",
+            "Adress": "Karlbergs strand 12, Solna",
+            "Hemsida": "http://restauranggrodhavet.se/",
+            "Telefon": "08-730 10 66",
+            "Google-profil": "https://maps.google.com/?cid=13591660149053828772",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q617oG3xlIJjPGRk02kGbEcsbza6-9IoP7G2iSf_jzsedmEbAYhscSGtNwVGHLl6NK-wUsPMTZjXhlv9gFOc2ckpIwQJ0CcWT-cCOo5YZCdE5xWNVYn8xelDOMDdEH7Xxquv-hPGVZHbd7DGEnqbhtKqNmVO1OZptJ9B52GUDk_RdHg&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Petr Bednář",
+                    "rating": 5,
+                    "text": "Place next to water, which we visited on the biggest holiday in Sweden Midsommar. Local menu was perfect fit and all dishes represent perfectly local holiday tasty meals. Perfect! Enough seating, aged by time and big amount of use. Ordering on one spot and meal delivered to your table."
+                },
+                {
+                    "author_name": "senel perera",
+                    "rating": 1,
+                    "text": "I have been working for the restaurant industry in Sweden for a long time now and if you have any doubts, why your restaurant is not performing very well is because of the bad customer service less Cleanliness and less food items on the menu available. Customer service is one of the key things for a successful restaurant and please hire good people with a good smile for the service."
+                },
+                {
+                    "author_name": "Issra Ahmed Dawi Ali",
+                    "rating": 1,
+                    "text": "The view was very nice but the food was so expensive and not so good. The vegetables were not tasty and the waffles were too crunchy."
+                },
+                {
+                    "author_name": "Jose Marchan",
+                    "rating": 1,
+                    "text": "If you wanna enjoy better meals and a way better service from the staff, just go to another one! I did not feel the welcoming vibe. Part of the staff was very serious and not friendly. The food was ok but there weren't meny options to choose from."
+                },
+                {
+                    "author_name": "Victor Apell",
+                    "rating": 2,
+                    "text": "The food wasn't of the highest quality and some dishes are quite expensive. Overall it was ok. There is a nice view but the place was quite messy with stuff just laying around. However a great place if you want to have a beer in the sun while watching some boat traffic. They serve a lot of querqy, interesting beers from various breweries."
+                }
+            ]
+        },
+        {
+            "Företag": "Casa Buongiorno Ristorante & Trattoria",
+            "Adress": "Sjödalsvägen 16, Huddinge",
+            "Hemsida": "http://www.buongiorno.se/",
+            "Telefon": "08-711 13 33",
+            "Google-profil": "https://maps.google.com/?cid=9736179838117637859",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q62dCJdJKSSRmYKEuRzN7DUfy_POkMUIjeGFoO_cDzK2qLgddy0PrWKErZBHBwO9pAYUAq4lUz3Lesiwp8-TwYdmIi49Yqosw6rFZSgCk3U6vPJ0Rbma2fThYpil6d3nh1TCAYfK-zelqBrx_UVNaMFLf3xFUsl7dZnRDfNESQZT43D&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Sara Crestini",
+                    "rating": 5,
+                    "text": "One of the best pizzas in Stockholm!\nThe food is really good, the service is amazing (especially the waitress at the bar and Ciccio!) and super welcoming and the atmosphere is so cozy.\nIt's the perfect restaurant for a relaxed dinner with a tasty pizza.\nMoreover, the prices are super honest.\nA special mention goes also to the oil, a super tasty one coming from a small factory in Liguria and that I used to eat when I was in Italy.\nI will definitely come back!"
+                },
+                {
+                    "author_name": "Julian Modro",
+                    "rating": 5,
+                    "text": "Went for a late lunch and were happily surprised! Nice atmosphere, we order pasta, risotto and pizza, all super good!!\nMy call is go for the shrimp pasta! And risotto! And pizza 😋🤣\nNice wine options as well, plus good and friendly staff!!"
+                },
+                {
+                    "author_name": "Daan842",
+                    "rating": 5,
+                    "text": "Excellent pizza and very friendly staff!"
+                },
+                {
+                    "author_name": "José Augusto",
+                    "rating": 5,
+                    "text": "The calzone was simply amazing! Friendly staff and a quite atmosphere. Can surely recommend it!"
+                },
+                {
+                    "author_name": "Petter Senften",
+                    "rating": 4,
+                    "text": "I had lunch here. The salad lacks zest and the bread had distinct scones-like quality, but the lasagna was delicious and the premises are non-offensive with a decent noise level. I'm sure noise will be more of an issue when it's packed to capacity but it was okay even moderately full. Background music is at a reasonable level, me and my company did not have to shout our conversation. Staff is friendly and service-minded."
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang 016 Balkan Town",
+            "Adress": "Oxelgrensvägen 5, Södertälje",
+            "Hemsida": "https://restaurang016.se/",
+            "Telefon": "072-233 34 43",
+            "Google-profil": "https://maps.google.com/?cid=4097638673696846979",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q66gLujJVTJPzh9ZbLm5Wh8LSdm2XLBK0mgs_pK2DXvvq_Ku0z2r5jmYUWfk9cDwKNiQHhJuJk1eXXdLpGupcMaIJDvhHHpwGyJdQAsqt0kGO6U8Q-qLD1u7p0NSUq_2grTD_F0WQIfVlwMlpP1TFfphj29ZLFqAHTCzsbUgDUfwwEa&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Mariia Kyrylova",
+                    "rating": 4,
+                    "text": "Thanks!\nIt was a good lunch today!"
+                },
+                {
+                    "author_name": "Milan Milenkovic",
+                    "rating": 5,
+                    "text": "Really nice place and food, very cozy and warm atmosphere… we had a really nice time and all the recommendations to go and check it! 😊"
+                },
+                {
+                    "author_name": "Петар Лазаревић",
+                    "rating": 1,
+                    "text": "Food with a suspicious smell and taste.  I don't recommend it at all."
+                },
+                {
+                    "author_name": "Borislav Antunovic",
+                    "rating": 5,
+                    "text": "Balkan food ! South Serbia !"
+                },
+                {
+                    "author_name": "Maria",
+                    "rating": 5,
+                    "text": "Good food, nice staff who ask extra questions (so you get the food the way YOU want it) and good sound level of the music. Purely!"
+                }
+            ]
+        },
+        {
+            "Företag": "EAT Market",
+            "Adress": "Jakobsbergsgatan 15, Stockholm",
+            "Hemsida": "http://eatrestaurant.se/",
+            "Telefon": "08-509 203 00",
+            "Google-profil": "https://maps.google.com/?cid=14558092842781119573",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5Zvn7vE-J1DX2SZjxg-T-xeknxRD8LaCLSm78_6_hvKEfmhLE9XLhSjy0fy2r6nW8gVGSBBgW469381ob6dRWfo3P-8vYTufeVqH7Rhjm7qICDwgVAc13Na_SlkxMwBR-EuxRqRR538FkdR4zMC0F3d6SZ9GfR84zLM_0JPn19DL2B&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Michelle",
+                    "rating": 3,
+                    "text": "The sushi is not worth the price compared to other sushi places I've been to. They don’t get a lot of sides either, very simple. The size is small."
+                },
+                {
+                    "author_name": "Achi T",
+                    "rating": 4,
+                    "text": "Maybe it's 4pm, the ramen wasn't hot. The dim sum was a bit dry, as for the flavor- Not suitable for those who has \"DimSum standard.\"\nThe fry chicken was good."
+                },
+                {
+                    "author_name": "Jing Ai",
+                    "rating": 4,
+                    "text": "Xiao long Bao is very tasty. The soup of Sichuan Beef noodle is very authentic, but the meat can be cooked longer to make it softer.😜 in general, the food is good."
+                },
+                {
+                    "author_name": "Fredric Sandell",
+                    "rating": 3,
+                    "text": "A decent place for some asian staple. Small beer selection mainly from the Carlsberg group, but they also carry Waipo Lager from Höganäs so you could be worse off.\n\nThe setting is nice as it is in the MOOD galleria which in itself is a small oasis in this part of town."
+                },
+                {
+                    "author_name": "Maria Johansson",
+                    "rating": 1,
+                    "text": "I’m very sad to be leaving a bad review since I was so excited to go :/ but the place really did not live up to our expectations. We got the vegan dumpling basket and the only vegetarian ramen option. We couldn’t finish the food for 2 reasons:\n\n1. The quality of the food was low: the dumplings were dry/undercooked and tasted weird. I don’t know if this was a bad batch or something but paying this much for mediocre/bad food is not worth it. The ramen also tasted very odd, the soy being dry once again.\n\n2. The allergen information is very unclear and the default seems to be egg noodles. Unfortunately I am allergic to egg so when ordering the ramen I didn’t realise since I (maybe falsely) assumed that the only vegetarian dish would also be vegan. This can be a serious risk for some people and there needs to be better information available about allergens when ordering!! Honestly the name of the dish was also misleading (Began) because it’s so close to the word vegan.\n\nWill not be going again !!!!"
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang Stuket",
+            "Adress": "Swedenborgsgatan 43, Stockholm",
+            "Hemsida": "http://www.stuket.nu/",
+            "Telefon": "08-720 05 15",
+            "Google-profil": "https://maps.google.com/?cid=6207945926623307938",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4F8qTGi0n_oewNXR1ltYjZhWQZeKckD6bneY7N067A0Ji1TUFbBR4yV9RCWO0J927FdM5E2ZjtbdGybEArgjf8p4Aun0uCDbCtPvVkxOjre77EQai_gGoUFLPBygePr6Yr3LuN3xZTLpwmJKiMb6w24MarH4n-T_S_F06GLHuAzdWg&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Rácz Ákos",
+                    "rating": 5,
+                    "text": "The food was very delicious, we ate seefoods and fish. The wine was perfect for it. The place's feeling is outstanding. There was full of local people so you know it is a good place as a tourist. Personally its a little expensive but worth it."
+                },
+                {
+                    "author_name": "Stefan Follows",
+                    "rating": 5,
+                    "text": "This is such a fantastic, friendly and authentic local place. The food is traditional Swedish and absolutely delicious. The atmosphere is warm and welcoming. If your looking for the real deal then this is it."
+                },
+                {
+                    "author_name": "Martin Ullrich",
+                    "rating": 5,
+                    "text": "Unexpected amazing experience, super quality of food!!!"
+                },
+                {
+                    "author_name": "Federico Russo",
+                    "rating": 5,
+                    "text": "Nice place for lunch, they have a 125kr deal for a main dish + salad buffet and free water. Nice service and cozy atmosphere. Definitely recommended"
+                },
+                {
+                    "author_name": "Ben Paley",
+                    "rating": 5,
+                    "text": "We never would have found this place without the internet. It's really a locals place, I think, in a residential neighborhood which is very pleasant but probably not somewhere you'd walk into looking for a restaurant if you didn't know it was there. As soon as we arrived, the staff were friendly and helpful and just generally cool, solicitous without being obsequious — well it was one bloke, really. And the food was terrific, up the traditional Swedish end of the spectrum, very tasty, and generous portions. The whole vibe was just very relaxed: families, older couples, one or two people just there for a drink, a lovely, friendly, inclusive atmosphere altogether. I would definitely go back. The chef came out to shake our hands when we left! He was doing that for a lot of people, how lovely is that?"
+                }
+            ]
+        },
+        {
+            "Företag": "Fågelboet",
+            "Adress": "Tulegatan 14, Sundbyberg",
+            "Hemsida": "http://www.restaurangfagelboet.se/",
+            "Telefon": "08-29 98 10",
+            "Google-profil": "https://maps.google.com/?cid=14763996651885412322",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5KZFH9FdeNpwoxkwF4MI_zKmEEPdAekOz6BZdvI2WMZEnbVtSMamfgsCpfQJUfbWWjRgEzxc3Aegq7jyCSek_RUOQw_4xZrV-qEW5N_M1DzkBMB4SWxra4X4yi5MIBxKIgxI38d7_wcre9kZ85mmCVthnLr_QpczKEUYLw3Co6z3ZD&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Shital Dhamankar",
+                    "rating": 5,
+                    "text": "Excellent and friendly service, good food and great price value. Must try for authentic chinese food 😍"
+                },
+                {
+                    "author_name": "Joanna Carab",
+                    "rating": 4,
+                    "text": "Small buffet with limited variety but pretty good quality. It costs 189kr during weekends!\nGreat service, super kind and friendly staff as well as good environment. The staff was probably the strongest part of the restaurant!\nI wish there was some more variety to choose from, especially vegetarian options. The food was not amazing but it was pretty descent. Some things, like fried chicken, were really good while others, like misso soup, could be better."
+                },
+                {
+                    "author_name": "Chulee Wang",
+                    "rating": 5,
+                    "text": "Jättegoda!!! Super tasty, with such a reasonable price, great & attentive service. One of the best Chinese restaurants in the neighborhood.\n\nI ordered xiao xian ji and anka i fågelbåt which were served with rice. Both of them went well together. The xiao xian ji is fried chicken with sweet sauce which is really nice. Anka i fågelbåt is superb and beyond my expectation. Most duck dishes I tried in Stockholm are usually too dry.\n\nI gave 5 stars for this unexpected yumminess. The restaurant is not crowded at all in the evening. Definitely recommend and will come back to try out the other menu!"
+                },
+                {
+                    "author_name": "Kun Wu (Brian)",
+                    "rating": 5,
+                    "text": "Nice Chinese Food, warm hostess, quiet and cozy place!"
+                },
+                {
+                    "author_name": "Irena Toljan",
+                    "rating": 5,
+                    "text": "One of the best restaurants in Sundbyberg! Also, one of the best Chinese restaurants in Stockholm, definitely worth a visit wherever you live in Stockholm . Not usually very crowded and the lady working there is the best :)"
+                }
+            ]
+        },
+        {
+            "Företag": "Luma Restaurang & Konferens",
+            "Adress": "Lumaparksvägen 7, Stockholm",
+            "Hemsida": "https://eatery.se/lumafabriken",
+            "Telefon": "076-072 63 32",
+            "Google-profil": "https://maps.google.com/?cid=10296936255923023824",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7jtknK1CTOjSwvjMTo-UHzgknyX-dhpmRpQ5TllTp5OzC2EO9pDIFtHfUbCbADjGeXYwmrxPL1ZdrZmpoOP7Y0-Dv7gD0tuKUPJ5yFX7GRBUSWcFLHdlUma1PD9KhktTiSqAnSTkDBmm-pEOsHYCPSotc9ze77YMKuYF2Q2Bnjc1hR&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Richa Thaper",
+                    "rating": 3,
+                    "text": "Super spacious place!! Has a very good widespread buffet. Salad section was great. Soup was out of the world, could go back every single day just to have the soup. They have choice of 3 options in main course to pick 1. I picked chicken and It was very very average/minimal. And the quantity was way too less.\nYou could also take coffee in the end.\nOverall worth the money but deducting stars to improve the quality and quantity of main course"
+                },
+                {
+                    "author_name": "Aveek Chakraborty",
+                    "rating": 5,
+                    "text": "Excellent place to have a simple healthy lunch. Recommend checking their menu for the day online before showing up."
+                },
+                {
+                    "author_name": "Oskars Kalnins",
+                    "rating": 3,
+                    "text": "All and all good place for business meetings and conferences. But the lack of parking spaces is the big side down. Have been there few times with my company, last time got a parking ticket, other times just could not find a parking.\nAlso the staff was short of new adapters to connect my laptop to a projector."
+                },
+                {
+                    "author_name": "Christer Jegbert",
+                    "rating": 5,
+                    "text": "A big lunch restaurant in the middle of hammarby Kaj. This place is a favorite for all the companies here. Really good food. and the swallow alot of people so you don't have to whait. Just kick back and enjoy. In teh summer i think they have an outdoor piazza area to , but im not sure. If you happen to work on a friday (god forbid!) theres also a bar here. ;)"
+                },
+                {
+                    "author_name": "Renan Almeida",
+                    "rating": 4,
+                    "text": "Pretty nice, spacious and independently of the day there will be something nice. The salad available is great as well!"
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurant Wokhouse",
+            "Adress": "Regeringsgatan 26, Stockholm",
+            "Hemsida": "https://www.wokhouse.net/",
+            "Telefon": "08-20 21 34",
+            "Google-profil": "https://maps.google.com/?cid=5976285404625810180",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7hMo2dJjTYMNRTGIpNFakqLLvQ4lVZlMBG_cgFe3L1Le-wvVycddcyNbW-FxshdmIA9RYDpawz4ZZJBlNJZc8K5RJxPoIcDZP8LBNFBk4E4cwTkniXhGZqKOV_ZBJxK_vqsvqOXsWXugIgHBMoyeJY8BgoKzI30FL3ekQnwOE6UR3t&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Liāna Aldiņa",
+                    "rating": 5,
+                    "text": "Good food, close to center, old town and station. Good size of portion, if not very hungry, ask for smaller one.\nPrice/performance - 10/10"
+                },
+                {
+                    "author_name": "LeftLiner (LeftLiner)",
+                    "rating": 4,
+                    "text": "Good food at fine prices. Was nice and relaxed atmosphere even on a Friday night, decor is a little odd though. Staff friendly and food arrived very quickly."
+                },
+                {
+                    "author_name": "Gregory Hudson",
+                    "rating": 5,
+                    "text": "It was extremely useful that Wokhouse offered that any dish could be made vegetarian - it was great to have a substantial choice of food options for once!\n\nThe service was impeccable, the staff very friendly and efficient, plus the extensive use of green plants throughout the venue helped contribute to its very relaxed atmosphere.\n\nVery highly recommended."
+                },
+                {
+                    "author_name": "Kristiina Laur",
+                    "rating": 4,
+                    "text": "Very good food and great aura but very poor email, Instagram response regarding my lost item. I suggest to be more responsive about your clients if they contact you. Until now still waiting email back."
+                },
+                {
+                    "author_name": "Kiara Kia",
+                    "rating": 4,
+                    "text": "Great food.... really lovely atmosphere. The waiters didn't take our drinks order...but otherwise all good"
+                }
+            ]
+        },
+        {
+            "Företag": "Légumes",
+            "Adress": "Bysistorget 8, Stockholm",
+            "Hemsida": "https://legumes.se/",
+            "Telefon": "08-669 35 35",
+            "Google-profil": "https://maps.google.com/?cid=7803633539473464341",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q6QqvWmS8CshYTDrAYbrIzHoRcgaB0ngjI52XUf_s4YPBVnxfCMBCA08tN6cW-ersSDvIxgZKWISlxZt50un7-7Orruznl3wDTHOu71PPpvi7d6kuNKZOBFORwaTvh6-uNWwbIPXpoYaiQ4XHdY72O9PcjC_3XOaeEkyGI7jtW9sr5R&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Kartikeyan R",
+                    "rating": 4,
+                    "text": "Good hearty vegetarian unlimited buffet available here for SEK 140.  Home style cooking , mildly spiced. Good option for a quick lunch when you are in the area. Outdoor seating available during summer. The buffet is not self service, the person behind the counter serves all the chosen dishes on the plate but you can go and ask multiple servings. They also have few a la carte options."
+                },
+                {
+                    "author_name": "Bartek Serkowski",
+                    "rating": 5,
+                    "text": "Good food! We took their buffet (warm and cold dishes, water, coffee, tea) for 139 SEK."
+                },
+                {
+                    "author_name": "Vinay Kumar",
+                    "rating": 3,
+                    "text": "Not many Vegetarian only places around, so it can be an option for those scenarios. Buffet is filling and has many food varieties. Falafel was rather sweet and it was a imitation version altogether..\n\nIf Bland cold food is your style you can can always go here.. This place gives away unsold surplus food as a community initiative on Too good to Go. It's rather expensive for what they offer at 140kr !"
+                },
+                {
+                    "author_name": "Emese Fodor",
+                    "rating": 5,
+                    "text": "The food is great, you can eat here vegan Turkish/Kurdish meals. The taste is very good. The food is here healthy and fresh."
+                },
+                {
+                    "author_name": "Aurelijus Bambalas",
+                    "rating": 5,
+                    "text": "We have been looking for not expensive and delicious restaurants in Stockholm. We found this one, and it is wonderful. The prices are as good as they could get, food is insanely delicious. We all bought the buffet and ate fallafels with rice and creamed spinnach. There is like 10 dishes you can choose in buffet, but you can buy them all seperately, not buying the buffet, even though, I found it most worthy. And the best things is, that ir you buy buffet, you can eat as much as you want. If you are especially vegan or gluten allergic,  I can definetly say that this cozy little place is worth it."
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang Asplund",
+            "Adress": "Gunnar Asplunds allé 2, 4, Solna",
+            "Hemsida": "http://www.restaurangasplund.se/",
+            "Telefon": "08-519 421 00",
+            "Google-profil": "https://maps.google.com/?cid=16491253011043115884",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7_j6PqRzfKp2AjE0A7eV2eHCPtzePcyNlfZIiDvcJRYVgw_vEBzp7iqavx_5VRBZguj6nX7nnfXUriQK5NmCxx8ei2SKe_a5RadI2kuweFD-KwB6QuB08Kyb4oRnYGMP5CF_u6yTGUpOk-h5hON21Wd0QETiumika1oZh4eFn-2A08&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Ajay Jacob Abraham",
+                    "rating": 3,
+                    "text": "Quiet cozy restaurant in Solna serving modern European food. Daily Lunch menu has one option of meat, fish and veg. I found the food to be a bit heavy and cooked in butter. This visit we tried the Veg (without salmon) sashimi topping pizza and Veg potato dumplings each priced at 120 sek. Parking available, it's on top of a hill (not on the main road)."
+                },
+                {
+                    "author_name": "Thomas Andersson",
+                    "rating": 5,
+                    "text": "Great Christmas table!\nFirst music quiz with 🥂 - then Nice food and drinks!\nMaybe not the easiest place to find but worth looking for…."
+                },
+                {
+                    "author_name": "Richa Thaper",
+                    "rating": 3,
+                    "text": "A good place for lunch! They have generally dagens lunch which is great. I had quasedillas and they were yumm. Usually crowded during lunch time because nearby office people come and eat."
+                },
+                {
+                    "author_name": "Philip Ingvaldsson Kitselis",
+                    "rating": 2,
+                    "text": "Well cooked and tasty food, but serving few amadine potatoes in a 10-12cm plate in diameter, to a company of 5 pulls down the rating a lot. I will give it another try at some point and gladly rate it higher if the portions are reasonable."
+                },
+                {
+                    "author_name": "Saurav Kalita",
+                    "rating": 5,
+                    "text": "We had our wedding party here with 35 guests. After doing a lot of search, we settled on Asplund and they did not dissapoint. Great service, good food and very nice setting. We would highly reccomend it! and thanks for everything!"
+                }
+            ]
+        },
+        {
+            "Företag": "Resturang Agapi Grill & Bar",
+            "Adress": "Ringvägen 57, Stockholm",
+            "Hemsida": "https://www.restaurangagapi.se/?utm_source=google",
+            "Telefon": "08-668 99 99",
+            "Google-profil": "https://maps.google.com/?cid=17523802533393909910",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q61WC3mRprj1OFLJyB2xiKcPYFEIPMaBdSiMnowrYOYQsOdOTktbWDSRw4qU2QRwqdHD90jVdYAa0c2a1I8Bi5SgO4Du_k-36bZ3aGeSGhw16Kpm2fZXrCTEJlPX9G3KisXd9vRWdhqbYr55LrjxAgYEzG8WeSy58qCWoaOnBcD2R2e&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Conny Andersson",
+                    "rating": 4,
+                    "text": "Very good food and generous portions!\nStaff friendly and accommodating but the restaurant itself looks dated!"
+                },
+                {
+                    "author_name": "Tetiana Kodenko",
+                    "rating": 5,
+                    "text": "I loved the food slot\nI had fläsk karre med sallad ❤️❤️❤️❤️\nDon't remember my husband's dish but it was also very 👍👍👍"
+                },
+                {
+                    "author_name": "Lawrence",
+                    "rating": 5,
+                    "text": "The food was really tasty with genourous portions (also had vegetarian and vegan options). Service was great and we had also a reasonably price wine (not easy in Stockholm!) from Greece."
+                },
+                {
+                    "author_name": "Aris Giannakos (Greek Swedish Network)",
+                    "rating": 5,
+                    "text": "Wonderful deco, great service, Greek music, love the connection with different Mediterranean foods! Best regards from Greek Swedish Community group on Facebook!"
+                },
+                {
+                    "author_name": "Angelique Dawnbringer",
+                    "rating": 5,
+                    "text": "Good tasty food and very large portions. You pay a bit more compared to other lunch restaurants, but you get food a la carte and great taste. Will definitely want to visit again.\n\nCan recommend the Xena dish if you are a meat lover and eat alone, as they have a nice selection."
+                }
+            ]
+        },
+        {
+            "Företag": "Kristorante Pizza/Restaurang",
+            "Adress": "Bällstabergsvägen 2, Vallentuna",
+            "Hemsida": "http://www.kristorante.se/",
+            "Telefon": "08-511 772 20",
+            "Google-profil": "https://maps.google.com/?cid=8374402420181311796",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4Hjcw-s40vZ5m94rDccjpFDJ1NJTkTObbNNMF-or-wo7ESziL_MK9-K0luEAle9BsJfwp16BqLc1k_fcj4d5lv-az4AFHUB06S7A7l59MVna2DfxzZdVpXFgzDVex2IDBOQkwcokqv0r_TaIUot8jLIpednATPkRMmCsW4Tl_9gGvV&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Phil Barton",
+                    "rating": 5,
+                    "text": "A good place for authentic pizza. The kebab is good as well. Reasonable prices. We were staying close by so only used the takeaway."
+                },
+                {
+                    "author_name": "Erika Skaredotter",
+                    "rating": 5,
+                    "text": "Nice pizza, delicious gyros and kebab. Fantastic service"
+                },
+                {
+                    "author_name": "kimmo hagman",
+                    "rating": 5,
+                    "text": "To make better authentic pizza is very very difficult my taste say this is best!  Picture was not possible was eating so fast :-)"
+                },
+                {
+                    "author_name": "Matias N.",
+                    "rating": 5,
+                    "text": "Had a KR  Della Casa to go, delicious pizza.\n\nNice crust, just slightly too \"airy\" for my taste, but way better than the average pizzaplace.\n\nWell put together toppings on their signature pizza.\n\nWill definitely go back. On site, you can have beer and wine with the food.\n\nPaid 145 kr in april 2023. Definitely priceworthy."
+                },
+                {
+                    "author_name": "Andy Bui",
+                    "rating": 5,
+                    "text": "Nice and large place with possibility to sit outside. Went to try during lunch and ended up with schnitzel. Pizzas looked good though so will be back later to try as tried the pizza bread and that was already top notch! Service very friendly. Prices normal lunch range."
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang Gasellen",
+            "Adress": "Wedavägen 1A, Södertälje",
+            "Hemsida": "http://gasellen.kvartersmenyn.se/",
+            "Telefon": "08-550 350 52",
+            "Google-profil": "https://maps.google.com/?cid=14342761214003827485",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4nERHt7plvkm_nOnWXk6OAEFKqpS-wbh_Zla9rYal4r1shrBRcIYNT8nn_-yUl56QiV6yK-ULjBy9DBJyOlv3P69zbpWPgKVrow3DSRQUP3pSow_Pz8XdSmJGUlbDDAxaZqrZw1YK6p7cuYheysUx7keYaAS-XJBe5dDSbN0eFHTN1&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Mikael Hansson",
+                    "rating": 2,
+                    "text": "Ok lunch restaurant, but with more options around this will not be my first choice."
+                },
+                {
+                    "author_name": "David Hansen",
+                    "rating": 5,
+                    "text": "Good proper lunch food!"
+                },
+                {
+                    "author_name": "Daniel Danial",
+                    "rating": 4,
+                    "text": "bra lunch"
+                },
+                {
+                    "author_name": "Andrii Morar",
+                    "rating": 5,
+                    "text": "Best"
+                },
+                {
+                    "author_name": "Per Fernberg",
+                    "rating": 4,
+                    "text": "Restaurant Gasellen is only 5 minutes from the E4. Exit Moraberg, Weda industrial area.  Here, well-prepared lunch dishes are always served by a very friendly staff. Large salad table included clean and tidy. In these pandemic times, many tables have been closed. Good thinking. Coffee and cake are always offered here. You will leave here full and satisfied, I promise. There are lunch coupons for SEK 89 / 10 pcs."
+                }
+            ]
+        },
+        {
+            "Företag": "Flama Restaurang",
+            "Adress": "Wedavägen 13a, Södertälje",
+            "Hemsida": "https://purspot.com/store/location/8ae22cc2-cc1a-4d57-9f6a-11d99cfa17fd",
+            "Telefon": "073-767 37 62",
+            "Google-profil": "https://maps.google.com/?cid=17986595965815446042",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q4dgA-QE-h_SR-nqz1mtCHQbUpvSd37DB49Lb6X2PCBvWkl5I5Qa9kQli1YW4pOX02xAnHbMy5lz0C1gpbburnwLas2QsDIZ9I_QKx6oELGPDncFo5tWcyC438MrveqQSkNdvM9D11FV9laIuKMG8CG6gic03v6Hy_UfMvWxMhpE_fJ&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "TINA GEWARGIS",
+                    "rating": 1,
+                    "text": "The food was salty, so salty.. especially the Asian food... the rest was tasteless.. ok the price is good, but the quality not.. not going back"
+                },
+                {
+                    "author_name": "Tommy Sund",
+                    "rating": 4,
+                    "text": "Great lunch buffé. Mix of thai and Arab food."
+                },
+                {
+                    "author_name": "Henry Shaheen",
+                    "rating": 5,
+                    "text": "Fresh, clean, spacious premises.\nGood acoustics. Good staff."
+                },
+                {
+                    "author_name": "GamePlay Lab",
+                    "rating": 5,
+                    "text": "I love lean!"
+                },
+                {
+                    "author_name": "Mazen Reda",
+                    "rating": 5,
+                    "text": "Nice place 👌"
+                }
+            ]
+        },
+        {
+            "Företag": "Café Sten Sture",
+            "Adress": "Trångsund 10, Stockholm",
+            "Hemsida": "http://www.cafestensture.se/",
+            "Telefon": "08-20 06 50",
+            "Google-profil": "https://maps.google.com/?cid=3551459525314139526",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5tm0EvO8GU0Q7laBUTZjnq1vJS6-FnnnioqKSl_orBofWj4FPrcaWV-llQ5TvUj07f2tj-oSJJQtMIqDcAuE7g4xLeu5EgIhAwH__M9hZDx3qKFD31pq8wqZ4kQ9XjWl6tFQ0WcW_XwM0pSNA9jKBpVmqQ3vAphhXXk0hXoHa3lfgC&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Linda Vosler",
+                    "rating": 5,
+                    "text": "Stumbled upon this little gem while on a tour through the old city. The aroma coming out of the door had my husband and I retrace our steps to find the source.\nIf you want to enjoy the atmosphere of years long gone and great food, this us the place."
+                },
+                {
+                    "author_name": "Erika Jane",
+                    "rating": 4,
+                    "text": "Cute spot that was recommended to us by a local artist, Tim. We enjoyed the meatballs and loved having a true Swedish meal! Their desserts looked delicious. There is not a bad seat in the house! I recommend you sit inside to get the full jail cell vibe! The host at the front was a bit rude and the waitress never came back to give us our check so we finally got up to go pay(unsure if this is normal there). The pasta needed a bit salt and pepper but I would say it’s the spot for the meatballs! I think they should add plaques about the history too!"
+                },
+                {
+                    "author_name": "Dr Juan F Martínez-Canca",
+                    "rating": 5,
+                    "text": "Unexpected diamond hidden underneath Stockholm!\nQuiet, smart, immaculately clean, and caring staff looking after you. A new gem for my top-star rated places ❤️"
+                },
+                {
+                    "author_name": "Peter Hartin",
+                    "rating": 5,
+                    "text": "Such a nice and hidden restaurant in Gamla Stan. The restaurant has different sections such as the dungeon and the vaults. The setting was very nice and the food was equally enjoyable. I got the Toast Skagen for the starter, followed by traditional Swedish meatballs which are great if you take a single forkful of meatball, mashed potato, lingonberry, and pickled cucumber together for a delicious flavor profile. For dessert I elected for the Princess Cake which was so dense and moist and had great layers. I highly recommend checking out this hidden restaurant in Gamla Stan for its unique theme as well as its great food."
+                },
+                {
+                    "author_name": "Bill Dauben",
+                    "rating": 5,
+                    "text": "Put this on your list when in Stockholm.\n\nWe were out seating a restroom and some swedish meatballs. We just so happened to see meatballs on the outside menu so we stopped. How lucky for us.\n\nWe ordered drinks and the meatballs with mashed potatoes and a bowl of goulash soup.\n\nThe meatballs came with a very whipped potatoes, some pickle slices with a teaspoon of cranberries on the side. It was fabulous but wasn't the star of the show.\n\nThe goulash my friends, is absolutely amazing. Ranks right up there with the goulash from Budapest.\n\nPut this place on your list if in Stockholm. A++"
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang Tierra",
+            "Adress": "Hantverkarvägen 22, Handen",
+            "Hemsida": "http://tierra.kvartersmenyn.se/",
+            "Telefon": "08-745 19 60",
+            "Google-profil": "https://maps.google.com/?cid=8141833170751380526",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q7yRT5_HUbLPr1Ajc4ORuqZN4OTEefPGxjW4-Q_fqHys-I8UjnLeloHdtH5pvN4z-w5UqVuph2XlF0ZWXMS3lDR2vJxnRXWmeG-sa2_x-sQ8XCrGLb6a7pVeow5H60cS7NVnQmN6nb2qSgczsvka4Bsl13ap1ZkAxfkFZu-a0Y94Fo&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "Jons Swenska",
+                    "rating": 5,
+                    "text": "Simple restaurant offering fantastic tasty food."
+                },
+                {
+                    "author_name": "Carin von Weisz",
+                    "rating": 4,
+                    "text": "Really, really good food! Uncharming premises, but you can live with that."
+                },
+                {
+                    "author_name": "M F",
+                    "rating": 5,
+                    "text": "Good place to have lunch with today's dishes and ala cart menu. Good big portions."
+                },
+                {
+                    "author_name": "Lars Eriksson",
+                    "rating": 5,
+                    "text": "Good food at a good price."
+                },
+                {
+                    "author_name": "Philipp Rodionov",
+                    "rating": 5,
+                    "text": "Have lunch here often, good food, very nice service"
+                }
+            ]
+        },
+        {
+            "Företag": "El Beik - Libanesisk restaurang Farsta",
+            "Adress": "Hökarängsplan 12, Farsta",
+            "Hemsida": "https://www.elbeik.se/",
+            "Telefon": "08-33 09 09",
+            "Google-profil": "https://maps.google.com/?cid=15767287204835275547",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q50C8C7KBdMc2mn80Y_HzPaYJLWfbhfNQyXS_w3Fa8p2zp_LcztDhMy0mEFxTmeX1LEm08FE4Mn6r3Rlm3Mdb2Fni9VSPO4mxKRe4z44E5gpRGrAMEuAIu6RfOno00vD7FzTkxo9UIBC-PLDeSq9G4o3cD1aXyZOWWpT_5obPz9pIKh&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "P R.",
+                    "rating": 5,
+                    "text": "I love it , it’s just the best. We always order the veggies menu. And they are freshly fried just right when you order them. The falafels as well. Variety and quality of sauces and ingredients.\nThe place always clean and the staff always friendly."
+                },
+                {
+                    "author_name": "Joseph Mugerwa",
+                    "rating": 4,
+                    "text": "If you love food from Lebanon  and you happen to be in Farsta this the place to go to. Has alot of different type to choose from  and much more"
+                },
+                {
+                    "author_name": "Kristiina Kuslapuu",
+                    "rating": 5,
+                    "text": "I don’t eat kebab that often but this might have been the best kebab I’ve had in Stockholm (took a chicken kebab). The rice was excellent, the salad was fresh and the portion was nice and big :)"
+                },
+                {
+                    "author_name": "Regina Myrén",
+                    "rating": 5,
+                    "text": "Absolutely the best kebab shop in Stockholm. The kebab, chicken, lamb and fried veggies are banging! Plus everything is halal! Only negative I have to say is that they don't do home delivery! 😛"
+                },
+                {
+                    "author_name": "Jonas Rudberg",
+                    "rating": 5,
+                    "text": "Helpful staff! Nice n clean. Best Lebanon food in south of Stockholm?! Affordable pricing, too."
+                }
+            ]
+        },
+        {
+            "Företag": "Restaurang Agaton",
+            "Adress": "Västerlånggatan 72, Stockholm",
+            "Hemsida": "http://www.restaurangagaton.se/",
+            "Telefon": "08-20 72 99",
+            "Google-profil": "https://maps.google.com/?cid=13097464824655903474",
+            "E-post": "Ingen e-post tillgänglig",
+            "Logga": "?maxwidth=400&photoreference=AXCi2Q5BKXt1Ay2t8R-qu46JeEasTLq5yei6io1tzRg-uEM459CtKO9fjh7pZaDt2fJeRZpey59P_2rCPeQE8ikqmd_AOkSBm_mSnIdudl2BsdAHbMOLeXJr6PpBiFWX71a3IqXClvSXxnls4wd_16SlBdUtu3-GpnsZu0v-KHLyXSMvjE3F&key=AIzaSyCiIxrDaLIvzhjTUNhDA22xzuX40i-r20E",
+            "Recensioner": [
+                {
+                    "author_name": "K. S.",
+                    "rating": 3,
+                    "text": "The location is easy to access, they have a lot of seating and we had no wait. We did have to wait a bit for the waiter to make our drink order and we ordered everything at once as to not have that long wait between interactions. The pizza was okay. Not bad, but not what I would go out of my way to have again. The atmosphere is very loud. If you want a quiet place where you can have a conversation with your dinner this is not the place."
+                },
+                {
+                    "author_name": "Olivia MacGowan",
+                    "rating": 5,
+                    "text": "Nice place located in the heart of Gamla Stan. Beautiful environment and bar set up. The food was amazing and nice large quantities as well. Drinks a little bit on the pricy side (one cocktail - $21CAD), but other than that, the price was very good for the quality of the food, speed and atmosphere of the restaurant."
+                },
+                {
+                    "author_name": "Johannes",
+                    "rating": 5,
+                    "text": "Food was very delicious. Everything was fresh and freshly prepared. Staff was friendly and atmosphere was great.\nI had as a starter beef carpaccio and as a main menu the tuna salat."
+                },
+                {
+                    "author_name": "Vanessa Lanteigne",
+                    "rating": 5,
+                    "text": "Went for a friend’s bday celebration and had some wonderful heart shaped pizza! The staff were super nice and even brought us bday tiramisu and sang! It was fabulous. Highly recommend and a wonderful send off to my time in Sweden !"
+                },
+                {
+                    "author_name": "Jessica Turci",
+                    "rating": 5,
+                    "text": "I ordered a bufalo mozzarella pizza and I was really happy to see that it was full of cheese on top!\nGood pizza and good prices as well.\nAnd between 11am to 2pm they have a free salad buffet."
+                }
+            ]
+        }
     ]
 }
