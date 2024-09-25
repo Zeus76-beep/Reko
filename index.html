@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekommenderas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7; /* Ljus bakgrund */
+        }
+        header {
+            background-color: #ff3b7f; /* Framträdande rosa */
+            color: white;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            margin: 0;
+            font-size: 28px; /* Större rubrikstorlek */
+        }
+        .search-container {
+            display: flex;
+            justify-content: center;
+            margin: 20px;
+        }
+        input[type="text"] {
+            padding: 15px;
+            width: 320px; /* Justerad bredd */
+            font-size: 16px;
+            border: 2px solid #ff3b7f;
+            border-radius: 25px;
+            margin-right: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            padding: 15px 20px;
+            background-color: #ff3b7f;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #ff1a5d; /* Mörkare rosa vid hover */
+        }
+        #results {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 20px;
+            justify-content: space-between;
+        }
+        .result-item {
+            background-color: #ffffff; /* Vit bakgrund för resultat */
+            padding: 20px;
+            margin: 10px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            width: calc(48% - 20px);
+            transition: transform 0.2s;
+        }
+        .result-item:hover {
+            transform: translateY(-5px);
+        }
+        .result-item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .review {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        .hidden {
+            display: none;
+        }
+        .loading {
+            text-align: center;
+            font-size: 18px;
+            color: #ff3b7f;
+            margin: 20px;
+        }
+        .no-results {
+            text-align: center;
+            font-size: 18px;
+            color: #333;
+            margin: 20px;
+        }
+        .filter-container {
+            display: flex;
+            justify-content: center;
+            margin: 20px;
+        }
+        .filter-container select {
+            padding: 10px;
+            margin-right: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Hitta Ditt Perfekta Ställe</h1>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Ange sökord..." />
+        <button id="search-button">Sök</button>
+    </div>
+<div>
+</div>
+    <div class="filter-container">
+        <select id="rating-filter">
+            <option value="">Filtrera efter betyg</option>
+            <option value="5">5 stjärnor</option>
+            <option value="4">4 stjärnor och uppåt</option>
+            <option value="3">3 stjärnor och uppåt</option>
+            <option value="2">2 stjärnor och uppåt</option>
+            <option value="1">1 stjärna och uppåt</option>
+        </select>
+        <button id="filter-button">Filtrera</button>
+    </div>
+
+    <div id="results"></div>
+    <div id="loading" class="loading hidden">Laddar...</div>
+    <div id="no-results" class="no-results hidden"></div>
+
+    <script>
+        let allPlaces = []; // Variabel för att lagra alla platser
+
+        async function fetchData(keyword) {
+            const response = await fetch('places_data.json');  // Hämta JSON-filen
+            if (!response.ok) {
+                console.error('Något gick fel vid hämtning av data:', response.status);
+                return;
+            }
+            const data = await response.json();  // Konvertera till JSON
+            console.log(data); // Logga data för att se vad som hämtas
+            allPlaces = data; // Spara all data i en global variabel
+            displayResults(data, keyword);  // Visa resultaten
+        }
+
+        function displayResults(data, keyword) {
+            const resultsDiv = document.getElementById('results');
+            const loadingDiv = document.getElementById('loading');
+            const noResultsDiv = document.getElementById('no-results');
+
+            resultsDiv.innerHTML = '';  // Rensa tidigare resultat
+            loadingDiv.classList.add('hidden'); // Dölja laddningsindikator
+            noResultsDiv.classList.add('hidden'); // Dölja inget resultat meddelande
+
+            // Kontrollera om sökordet finns i data
+            if (data[keyword]) {
+                data[keyword].forEach(place => {
+                    const resultItem = document.createElement('div');
+                    resultItem.classList.add('result-item');
+
+                    // Visa betyget direkt
+                    const rating = place.Recensioner && place.Recensioner.length > 0 ? place.Recensioner[0].rating : 'Ingen rating tillgänglig';
+
+                    resultItem.innerHTML = `
+                        <h3>${place.Företag}</h3>
+                        <p><strong>Adress:</strong> ${place.Adress}</p>
+                        <p><strong>Hemsida:</strong> <a href="${place.Hemsida}" target="_blank">${place.Hemsida}</a></p>
+                        <p><strong>Telefon:</strong> ${place.Telefon}</p>
+                        <p><strong>Google-profil:</strong> <a href="${place['Google-profil']}" target="_blank">Visa</a></p>
+                        <p><strong>E-post:</strong> ${place['E-post']}</p>
+                        ${place.Logga ? `<img src="${place.Logga}" alt="Logga" onerror="this.onerror=null; this.src='default_image.jpg';">` : ''}
+                        <p><strong>Betyg:</strong> ${rating}</p>
+                        <button class="review-button">Visa recensioner</button>
+                        <div class="reviews-container hidden"></div>
+                    `;
+
+                    resultsDiv.appendChild(resultItem);
+
+                    // Lägg till event listener för att visa/dölja recensioner
+                    const reviewButton = resultItem.querySelector('.review-button');
+                    const reviewsContainer = resultItem.querySelector('.reviews-container');
+
+                    reviewButton.addEventListener('click', () => {
+                        if (reviewsContainer.classList.contains('hidden')) {
+                            // Visa recensionerna
+                            if (place.Recensioner && place.Recensioner.length > 0) {
+                                reviewsContainer.innerHTML = '';  // Töm tidigare recensioner om det behövs
+                                place.Recensioner.forEach(review => {
+                                    const reviewItem = document.createElement('div');
+                                    reviewItem.classList.add('review');
+                                    reviewItem.innerHTML = `
+                                        <p><strong>${review.author_name}</strong> - Betyg: ${review.rating}</p>
+                                        <p>${review.text}</p>
+                                    `;
+                                    reviewsContainer.appendChild(reviewItem);
+                                });
+                            } else {
+                                reviewsContainer.innerHTML = '<p>Inga recensioner tillgängliga.</p>';
+                            }
+                            reviewsContainer.classList.remove('hidden');
+                            reviewButton.textContent = 'Dölj recensioner';
+                        } else {
+                            // Dölj recensionerna
+                            reviewsContainer.classList.add('hidden');
+                            reviewButton.textContent = 'Visa recensioner';
+                        }
+                    });
+                });
+            } else {
+                noResultsDiv.innerHTML = '<p>Inga resultat hittades för sökordet: ' + keyword + '</p>';  // Tydligt meddelande
+                noResultsDiv.classList.remove('hidden'); // Visa meddelande
+            }
+        }
+
+        document.getElementById('search-button').addEventListener('click', () => {
+            const keyword = document.getElementById('search-input').value.trim().toLowerCase();  // Hämta och trimma sökordet
+            document.getElementById('loading').classList.remove('hidden'); // Visa laddningsindikator
+            fetchData(keyword);  // Hämta data baserat på sökordet
+        });
+
+        document.getElementById('filter-button').addEventListener('click', () => {
+            const ratingFilter = document.getElementById('rating-filter').value; // Hämta valt filter
+            const keyword = document.getElementById('search-input').value.trim().toLowerCase();  // Hämta sökordet
+
+            let filteredResults = {};
+            if (ratingFilter) {
+                filteredResults[keyword] = allPlaces[keyword].filter(place => {
+                    const placeRating = place.Recensioner && place.Recensioner.length > 0 ? place.Recensioner[0].rating : 0;
+                    return placeRating >= ratingFilter;
+                });
+            } else {
+                filteredResults = allPlaces; // Inga filter, visa alla platser
+            }
+
+            displayResults(filteredResults, keyword); // Visa filtrerade resultat
+        });
+    </script>
+
+</body>
+</html>
