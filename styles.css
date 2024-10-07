@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7; /* Ljus bakgrund */
+}
+
+header {
+    background-color: #ff3b7f; /* Framträdande rosa */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px; /* Större rubrikstorlek */
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+input[type="text"] {
+    padding: 15px;
+    width: 320px; /* Justerad bredd */
+    font-size: 16px;
+    border: 2px solid #ff3b7f;
+    border-radius: 25px;
+    margin-right: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    padding: 15px 20px;
+    background-color: #ff3b7f;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #ff1a5d; /* Mörkare rosa vid hover */
+}
+
+#results {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: space-between; /* Justera layouten */
+}
+
+.result-item {
+    background-color: #ffffff; /* Vit bakgrund för resultat */
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: calc(30% - 20px); /* Tre rutor per rad */
+    transition: transform 0.2s;
+}
+
+.result-item:hover {
+    transform: translateY(-5px);
+}
+
+.result-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.review {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.hidden {
+    display: none;
+}
+
+.loading {
+    text-align: center;
+    font-size: 18px;
+    color: #ff3b7f;
+    margin: 20px;
+}
+
+.no-results {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+}
+
+.filter-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.filter-container select {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}

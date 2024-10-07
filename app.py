@@ -16,11 +16,11 @@ def save_results_to_json(keyword, results):
     
     # Om filen inte finns, skapa en tom fil
     if not os.path.exists(filename):
-        with open(filename, 'w') as file:
+        with open(filename, 'w', encoding='utf-8') as file:  # Ange UTF-8
             json.dump({}, file)
     
     # Ladda nuvarande data från filen
-    with open(filename, 'r') as file:
+    with open(filename, 'r', encoding='utf-8') as file:  # Ange UTF-8
         data = json.load(file)
     
     # Kontrollera om det redan finns resultat för det här sökordet
@@ -36,7 +36,7 @@ def save_results_to_json(keyword, results):
             data[keyword].append(result)
     
     # Spara tillbaka till filen
-    with open(filename, 'w') as file:
+    with open(filename, 'w', encoding='utf-8') as file:  # Ange UTF-8
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 # Funktion för att hämta bildlänk
